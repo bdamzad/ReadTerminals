@@ -1,0 +1,15 @@
+D:\Project_Test\ReadTerminals\ReadTerminals\bin\Debug\ReadTerminals.exe.config
+D:\Project_Test\ReadTerminals\ReadTerminals\obj\Debug\Interop.BioBridgeSDKLib.dll
+D:\Project_Test\ReadTerminals\ReadTerminals\obj\Debug\AxInterop.BioBridgeSDKLib.dll
+D:\Project_Test\ReadTerminals\ReadTerminals\obj\Debug\ReadTerminals.csproj.ResolveComReference.cache
+D:\Project_Test\ReadTerminals\ReadTerminals\bin\Debug\ReadTerminals.exe
+D:\Project_Test\ReadTerminals\ReadTerminals\bin\Debug\ReadTerminals.pdb
+D:\Project_Test\ReadTerminals\ReadTerminals\bin\Debug\Interop.BioBridgeSDKLib.dll
+D:\Project_Test\ReadTerminals\ReadTerminals\bin\Debug\AxInterop.BioBridgeSDKLib.dll
+D:\Project_Test\ReadTerminals\ReadTerminals\obj\Debug\ReadTerminals.Form1.resources
+D:\Project_Test\ReadTerminals\ReadTerminals\obj\Debug\ReadTerminals.Properties.Resources.resources
+D:\Project_Test\ReadTerminals\ReadTerminals\obj\Debug\ReadTerminals.csproj.GenerateResource.Cache
+D:\Project_Test\ReadTerminals\ReadTerminals\obj\Debug\ReadTerminals.exe
+D:\Project_Test\ReadTerminals\ReadTerminals\obj\Debug\ReadTerminals.pdb
+D:\Project_Test\ReadTerminals\ReadTerminals\bin\Debug\MySql.Data.dll
+D:\Project_Test\ReadTerminals\ReadTerminals\obj\Debug\ReadTerminals.csprojResolveAssemblyReference.cache

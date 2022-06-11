@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Device>
+    <Places>Dhaka HQ</Places>
+    <DeviceID>Y</DeviceID>
+    <Model>R2</Model>
+    <IpAddress>158.24.116.35</IpAddress>
+  </Device>
+  <Device>
+    <Places>Agrabad</Places>
+    <DeviceID>AG</DeviceID>
+    <Model>R2</Model>
+    <IpAddress>158.24.119.20</IpAddress>
+  </Device>
+  <Device>
+    <Places>Tejgaon</Places>
+    <DeviceID>TJ</DeviceID>
+    <Model>R2</Model>
+    <IpAddress>158.24.117.25</IpAddress>
+  </Device>
+  <Device>
+    <Places>LOBP</Places>
+    <DeviceID>LO</DeviceID>
+    <Model>kad</Model>
+    <IpAddress>158.24.118.9</IpAddress>
+  </Device>
+  <Device>
+    <Places>Kathgor</Places>
+    <DeviceID>KA</DeviceID>
+    <Model>Kadex</Model>
+    <IpAddress>158.24.118.53</IpAddress>
+  </Device>
+</DocumentElement>
